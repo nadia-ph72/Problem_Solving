@@ -1,0 +1,11 @@
+.homePageStyle{
+    background-color: rgb(250, 192, 192);
+    height: 50px;
+    margin: 0 auto;
+}
+
+p{
+    padding-top: 10px;
+    font-weight: 700;
+    text-align: center;
+}
